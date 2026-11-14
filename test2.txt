@@ -1,1 +1,2 @@
 creating a data into file from terminal to github 
+now modifying from github
